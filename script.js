@@ -6,5 +6,5 @@ const sort = (array) => {
       }
     }
   }
-  return (document.getElementById('demo').innerHTML = array);
+  return (document.getElementById('demo').innerHTML = array;
 };
